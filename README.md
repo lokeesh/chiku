@@ -1,0 +1,2 @@
+# chiku
+termux rearch 
